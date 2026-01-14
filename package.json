@@ -1,0 +1,30 @@
+{
+  "name": "api-client-utility",
+  "version": "1.0.0",
+  "description": "A robust, configurable HTTP client with interceptors, retry logic, and caching",
+  "main": "src/utils/api-client.js",
+  "scripts": {
+    "docs": "jsdoc -c jsdoc.json",
+    "test": "node --test"
+  },
+  "keywords": [
+    "http",
+    "api",
+    "client",
+    "fetch",
+    "rest",
+    "interceptor",
+    "retry",
+    "cache"
+  ],
+  "author": "GovaradhanGaddam",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GovaradhanGaddam/api-client-utility"
+  }
+}
